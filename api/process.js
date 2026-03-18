@@ -20,7 +20,7 @@ rows2=строки раздела ДОПОЛНИТЕЛЬНЫЕ РАБОТЫ
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-api-key': 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,
+        'x-api-key': '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',
         'anthropic-version': '2023-06-01'
       },
       body: JSON.stringify({
